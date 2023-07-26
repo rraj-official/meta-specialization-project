@@ -1,9 +1,9 @@
 # Little Lemon - Food ordering WebApp
-~ Built using React, TailwindCSS, react-router module, react-responsive-carousel,  RESTful table-booking API (Ongoing project)
+~ Built using React, TailwindCSS, react-router module, react-responsive-carousel,  RESTful table-booking API (Ongoing project)\ 
 ~ Part of 7 months Meta Front-End Developer Specialization 
 
 ## Link to website
-(Not deployed, clone locally to test the app)
+(Website under development, clone locally to test the app)
 
 ## Homepage
 ![home-page](https://github.com/rraj-official/meta-specialization-project/assets/119522203/34f36fad-bacd-42f0-88b0-bfff0b2f48c8)
