@@ -1,3 +1,5 @@
 {
-    "iosPath": "ios"
+    "iosPath": "ios",
+    "cordova": {},
+    "capacitor": {}
 }
